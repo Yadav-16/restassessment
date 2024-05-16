@@ -1,0 +1,48 @@
+#fullscreen{
+  height:100%;
+  width:100%;
+  background:green;
+}
+
+#header{
+  height: 20%;
+  width:100%;
+  background:#58D68D ;
+}
+
+#ForgotUID:hover{
+text-decoration:underline;
+}
+
+#Greeting{
+font-family: Times;
+font-size: 24;
+text-align: center;
+padding:2%;
+}
+
+#trunk{
+	height:70%;
+	width:100%;
+	background:#A9DFBF;	
+	text-align:center;
+	}
+	
+#logodisplay{
+height:80%;
+width:100%;	
+}
+
+#logo{
+height:90%;
+width:50%;	
+	
+}
+
+#footer {
+  height:10%;
+  width:100%;
+  background:#F7DC6F; 
+
+ }
+
